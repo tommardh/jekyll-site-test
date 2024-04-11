@@ -59,11 +59,11 @@ table {
 
 .site-nav a.current {
   font-weight: bolder;
-  color: white;
+  color: black;
 }
 
 .site-nav {
-  background-color: black;
+  background-color: #FCE6B1;
 }
 
 html {
@@ -71,16 +71,16 @@ html {
 }
 
 .site-header {
-    background-color: black;
+    background-color: #FCE6B1;
     padding: 30px;
     position: sticky;
     top: 0;
 }
 
 .site-footer {
-  background-color: #51bbb4;
+  background-color: #FCE6B1;
   padding: 30px;
-  color: white;
+  color: black;
 }
 
 .header-logo {
@@ -88,7 +88,7 @@ html {
 }
 
 .site-nav .menu-icon svg {
-  fill: white;
+  fill: black;
 }
 
 .svg-icon {
@@ -96,11 +96,11 @@ html {
 }
 
 .footer-col-wrapper {
-  color: white;
+  color: black;
 }
 
 .footer-col-wrapper a {
-  color: white;
+  color: black;
 }
 
 a.page-link:link { text-decoration: none; }
@@ -109,7 +109,7 @@ a.page-link:hover { text-decoration: none; }
 a.page-link:active { text-decoration: none; }
 
 .site-nav .page-link {
-    color: white;
+    color: black;
     text-shadow: -.25px -.25px 0 transparent, 
     .25px .25p transparent;
 }
