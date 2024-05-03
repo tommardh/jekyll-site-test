@@ -6,7 +6,7 @@ summary: Scope360° Professional provides Scope360° functionality to users with
 ---
 # Dear user of Scope360° Professional,
 
-Our aim with the Scop360° is to make your work day easier and that you become more efficient.
+Our aim with the Scope360° is to make your work day easier and that you become more efficient.
 Every year we spend hundreds of hours improving Scope360°. The work includes everything from analysing needs and develop new functions in the product that can create great value for You. In order to be at the forefront and meet expectations, we have released many features.
 
 Examples of features:
