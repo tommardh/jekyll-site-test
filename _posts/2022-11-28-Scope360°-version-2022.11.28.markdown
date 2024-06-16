@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Scope360° Version 2022.11.28"
-date:   2022-11-28 18:20:14 +0200
-categories: release-note
----
-## Jira Plan Perspective
-
-This version contains a bug fix related to page dimension in Pivot Report. It did not work when hierarchyLevel was chosen.

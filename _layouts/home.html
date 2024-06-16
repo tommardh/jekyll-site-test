@@ -10,7 +10,7 @@ layout: default
         {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.menu -%}
-                <h1 id="{{my_page.menu}}">{{ my_page.title | upcase }}</h1>
+                <!-- h1 id="{{my_page.menu}}">{{ my_page.title | upcase }}</h1 -->
                 <!-- a href="{{ my_page.url | relative_url }}" {% if page.url == my_page.url %} class="page-link current" {% else %} class="page-link" {% endif %}>{{ my_page.menu | upcase | escape }}</a -->
                 {{ my_page.content }}
                 {%- if my_page.menu == "Docs" -%}
